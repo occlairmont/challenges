@@ -1,0 +1,8 @@
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 15%;
+    border: 3px solid black;
+    border-radius: 3em;
+}
